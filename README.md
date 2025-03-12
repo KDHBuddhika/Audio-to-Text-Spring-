@@ -34,7 +34,7 @@ This application is a full-stack solution for converting audio files into text t
 Here are some screenshots of the application in action:
 
 ### **Home Page**
-![Home Page](/screenshots/home-page.png)  
+![Home Page](/screenshots/Screenshot 2025-03-12 234542.png)  
 *The home page where users can upload audio files.*
 
 ### **Transcription Result**
@@ -43,7 +43,3 @@ Here are some screenshots of the application in action:
 
 ---
 
-## **Getting Started**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
