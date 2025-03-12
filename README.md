@@ -34,7 +34,7 @@ This application is a full-stack solution for converting audio files into text t
 Here are some screenshots of the application in action:
 
 ### **Home Page**
-![Home Page](/screenshots/Screenshot 2025-03-12 234542.png)  
+![Home Page]([/screenshots/Screenshot 2025-03-12 234542.png](https://github.com/KDHBuddhika/Audio-to-Text-Spring-/blob/main/screenshots/Screenshot%202025-03-12%20234542.png))  
 *The home page where users can upload audio files.*
 
 ### **Transcription Result**
