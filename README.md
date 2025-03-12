@@ -37,9 +37,7 @@ Here are some screenshots of the application in action:
 ![Home Page]([/screenshots/Screenshot 2025-03-12 234542.png](https://github.com/KDHBuddhika/Audio-to-Text-Spring-/blob/main/screenshots/Screenshot%202025-03-12%20234542.png))  
 *The home page where users can upload audio files.*
 
-### **Transcription Result**
-![Transcription Result](/screenshots/transcription-result.png)  
-*The transcribed text displayed after processing the audio file.*
+
 
 ---
 
